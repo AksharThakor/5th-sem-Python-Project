@@ -1,4 +1,4 @@
-# Python-Project-sem5
+# 5th-sem-Python-Project
 A webapp for psychometric analysis through quiz with simple questions.
 
 
