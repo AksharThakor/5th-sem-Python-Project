@@ -1,4 +1,4 @@
-# 5th-sem-Python-Project
+# Cognilocus
 A webapp for psychometric analysis through quiz with simple questions.
 
 
