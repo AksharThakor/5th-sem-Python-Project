@@ -1,4 +1,7 @@
 # Cognilocus
+
+<img width="1280" height="1285" alt="image" src="https://github.com/user-attachments/assets/cfed08ca-1778-417d-916b-09462eb42bf8" />
+
 A webapp for psychometric analysis through quiz with simple questions.
 
 
